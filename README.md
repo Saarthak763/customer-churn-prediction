@@ -1,5 +1,8 @@
 # Customer Churn Prediction
 
+## 🚀 Live Demo
+👉 [Customer Churn Predictor — Live App](https://customer-churn-prediction-2zdfmgabudodoy5zbf2e8h.streamlit.app)
+
 Predicting which telecom customers are likely to cancel their service — and explaining _why_ — so a business can act on it before they leave.
 
 ## 🎯 Problem
