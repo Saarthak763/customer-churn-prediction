@@ -12,10 +12,6 @@ env/
 # Data (keep raw data out of git unless small + license-free)
 data/processed/*.csv
 
-# Models
-models/*.pkl
-models/*.joblib
-
 # OS / IDE
 .DS_Store
 .vscode/
